@@ -1,0 +1,87 @@
+{
+  "name": "Yaron Rüger",
+  "title": "Project Engineer Backend",
+  "employer": {
+    "name": "T-Systems International GmbH",
+    "location": "Nürnberg, Germany"
+  },
+  "url": "https://yaron-rueger.de",
+  "description": "Personal portfolio of Yaron Rüger, Project Engineer Backend.",
+  "bio": [
+    "Hello everyone!",
+    "My name is Yaron Rüger and I am a Project Engineer Backend at T-Systems International GmbH in Nürnberg, Germany. My passion for technology and problem solving has led me to pursue a career in this exciting field.",
+    "My skills include backend development, where I have gained experience in creating and updating efficient and scalable systems. I also have some frontend development experience, which allows me to create user-friendly interfaces for the applications I build."
+  ],
+  "links": {
+    "github": "https://github.com/yaronrueger",
+    "linkedin": "https://de.linkedin.com/in/yaron-rueger-37809134b",
+    "email": "yaron.rueger@outlook.de"
+  },
+  "career": [
+    {
+      "date": "2024-10-01",
+      "title": "Project Engineer Backend",
+      "organization": "T-Systems International GmbH"
+    },
+    {
+      "date": "2021-10-01",
+      "title": "Software Engineer",
+      "organization": "Deutsche Telekom Technik"
+    }
+  ],
+  "education": [
+    {
+      "date": "2021-10-01",
+      "endDate": "2024-09-30",
+      "title": "Bachelor's Degree in Computer Science",
+      "organization": "Telekom AG (dual study program)"
+    },
+    {
+      "date": "2021-07-16",
+      "title": "High School Graduation",
+      "organization": "Gymnasium Münchberg"
+    },
+    {
+      "date": "2020-02-02",
+      "title": "Artificial Intelligence and Neural Networks Workshop"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java",
+      "level": 87
+    },
+    {
+      "name": "Python",
+      "level": 85
+    },
+    {
+      "name": "Kotlin",
+      "level": 77
+    },
+    {
+      "name": "PostgreSQL",
+      "level": 75
+    },
+    {
+      "name": "Svelte(Kit)",
+      "level": 74
+    },
+    {
+      "name": "Go",
+      "level": 65
+    },
+    {
+      "name": "JavaScript",
+      "level": 60
+    },
+    {
+      "name": "TypeScript",
+      "level": 60
+    },
+    {
+      "name": "Angular",
+      "level": 60
+    }
+  ]
+}
